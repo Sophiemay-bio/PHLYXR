@@ -78,6 +78,12 @@ pip install mkdocs-material
 
 Those are a few of the basics, but there is lots more to explore. This is a [great resource from GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+|Tools for website creation||
+|:---|---|
+|code|website
+|markdown|github
+|javascript
+
 This material was developed by the RCDS team at ECRI.
 
 <!-- Images are similar but begin with an exclamation point ![ALT TEXT](URL) -->
