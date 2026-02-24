@@ -14,7 +14,7 @@ Microbiome-friendly • STI Preventing • Contraceptive • Non-hormonal • Ve
 
 <div class="fade-in">
 <a href="#waitlist" class="cta-button">Join the Waitlist</a>
-<a href="#learn-more" class="cta-button.secondary">Learn More</a>
+<a href="#learn-more" class="cta-button secondary">Learn More</a>
 </div>
 
 <div class="social-links fade-in">
@@ -144,7 +144,7 @@ We're currently in **preclinical in vitro testing** with formula refinement ongo
     - 📅 **Q3-Q4 2026** - Clinical trials at identified CRO & MHRA approval
     - 🎯 **Q4 2027** - Product launch
 
-[View Full Timeline](timeline.md){.cta-button.secondary }
+[View Full Timeline](timeline.md){.cta-button secondary }
 
 ---
 
@@ -218,7 +218,7 @@ Your feedback is invaluable. Take our 5-minute survey to help us understand:
 - Product packaging preferences
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="https://forms.gle/your-survey-link" class="cta-button.secondary" target="_blank">Take the Survey</a>
+<a href="https://forms.gle/your-survey-link" class="cta-button secondary" target="_blank">Take the Survey</a>
 </div>
 
 ---
@@ -264,7 +264,7 @@ Interested in investing? **[Contact us](mailto:invest@phlyxr.com)**
 
 <div style="text-align: center; margin: 2rem 0;">
 <a href="#waitlist" class="cta-button">Join the Waitlist</a>
-<a href="our-solution.md" class="cta-button.secondary">Learn More</a>
+<a href="our-solution.md" class="cta-button secondary">Learn More</a>
 </div>
 
 </div>

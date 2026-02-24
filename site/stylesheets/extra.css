@@ -92,11 +92,11 @@ h1, h2, h3, h4, h5, h6 {
   transform: translateY(-2px);
   box-shadow: 0 5px 15px rgba(52, 0, 176, 0.3);
   color: var(--phlyxr-white) !important;
-}.cta-button.secondary {
-  background-color: rgba(52, 0, 176, 0.3);
+}.cta-button secondary {
+  background-color: transparent;);
   color: var(--phlyxr-primary) !important;
   border: 2px solid var(--phlyxr-primary);
-}.cta-button.secondary:hover {
+}.cta-button secondary:hover {
   background-color: var(--phlyxr-primary);
   color: var(--phlyxr-white) !important;
 }.cta-button.large {
