@@ -384,7 +384,7 @@ Explore our development journey and meet the team behind the science.
 
 <div style="text-align: center; margin: 2rem 0;">
 <a href="team.md" class="cta-button">Meet Our Team</a>
-<a href="timeline.md" class="cta-button secondary">View Timeline</a>
+<a href="timeline.md" class="cta-button.secondary">View Timeline</a>
 </div>
 
 </div>

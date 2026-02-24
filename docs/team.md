@@ -267,7 +267,7 @@ Join our waitlist or explore investment opportunities.
 
 <div style="text-align: center; margin: 2rem 0;">
 <a href="../index.md#waitlist" class="cta-button">Join the Waitlist</a>
-<a href="timeline.md" class="cta-button secondary">View Our Timeline</a>
+<a href="timeline.md" class="cta-button.secondary">View Our Timeline</a>
 </div>
 
 </div>

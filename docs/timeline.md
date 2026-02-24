@@ -382,7 +382,7 @@ Join our waitlist to receive updates as we hit each milestone.
 
 <div style="text-align: center; margin: 2rem 0;">
 <a href="../index.md#waitlist" class="cta-button">Join the Waitlist</a>
-<a href="team.md" class="cta-button secondary">Meet Our Team</a>
+<a href="team.md" class="cta-button.secondary">Meet Our Team</a>
 </div>
 
 </div>

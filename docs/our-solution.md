@@ -353,7 +353,7 @@ PHLYXR is redefining sexual health protection. Join us.
 
 <div style="text-align: center; margin: 2rem 0;">
 <a href="../index.md#waitlist" class="cta-button">Join the Waitlist</a>
-<a href="science.md" class="cta-button secondary">Explore the Science</a>
+<a href="science.md" class="cta-button.secondary">Explore the Science</a>
 </div>
 
 </div>
