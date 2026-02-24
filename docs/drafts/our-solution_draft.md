@@ -205,7 +205,7 @@ We designed PHLYXR to be used by anyone needs on-demand STI prevention
 
 ---
 
-<!--## 🔬 Development Status
+## 🔬 Development Status
 
 ### **Where We Are Now**
 
@@ -227,7 +227,7 @@ We designed PHLYXR to be used by anyone needs on-demand STI prevention
 🎯 **Q4 2027** - Product launch
 
 [View Full Timeline](timeline.md){.cta-button }
--->
+
 ---
 
 ## 💡 Innovation Highlights
@@ -261,7 +261,7 @@ First STI prevention product that:
 
 ---
 
-## 🎓 Created by experts
+## 🎓 Backed by Leading Institutions
 
 PHLYXR is developed by experts in bioengineering, sexual health and the microbiome.
 

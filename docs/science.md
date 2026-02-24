@@ -17,11 +17,11 @@ PHLYXR is built on rigorous scientific research and cutting-edge biomaterial tec
 
 **Proprietary biomaterial formulation**
 
-Our patentable technology uses specialized compounds that:
+Our patentable technology uses specialised compounds that:
 
 - **Coat viral and bacterial surfaces** - Creating a molecular barrier
 - **Bind to pathogen proteins** - Preventing host cell attachment
-- **Neutralize infectivity** - Reducing transmission risk
+- **Neutralise infectivity** - Reducing transmission risk
 - **Work across pathogen types** - Bacteria, viruses, and parasites
 
 **Mechanism of Action:**
@@ -31,7 +31,7 @@ The active compounds in PHLYXR interact with surface proteins on STI pathogens, 
 </div>
 
 <div class="feature-card" markdown="1">
-### **2. pH Optimization**
+### **2. pH Optimisation**
 
 **Vaginal-matched pH 3.5-4.5**
 
@@ -44,7 +44,7 @@ Maintaining optimal vaginal acidity:
 
 **Why pH Matters:**
 
-The healthy vaginal microbiome is dominated by lactobacillus species that produce lactic acid, maintaining pH 3.5-4.5. This acidic environment naturally inhibits many pathogens. Many lubricants disrupt this balance—PHLYXR preserves it.
+The healthy vaginal microbiome is dominated by lactobacillus species that produce lactic acid, maintaining pH 3.5-4.5. This acidic environment naturally inhibits many pathogens. Many lubricants disrupt this balance, PHLYXR preserves it.
 
 </div>
 
@@ -55,7 +55,7 @@ The healthy vaginal microbiome is dominated by lactobacillus species that produc
 
 Non-hormonal pregnancy prevention through:
 
-- **Acidic pH immobilization** - Sperm cannot survive in pH 3.5-4.5
+- **Acidic pH immobilisation** - Sperm cannot survive in pH 3.5-4.5
 - **Motility inhibition** - Additional compounds prevent sperm movement
 - **Membrane disruption** - Affects sperm cell integrity
 - **Immediate action** - Protection from first application
@@ -88,7 +88,7 @@ Unlike hormonal contraceptives, PHLYXR provides contraception without systemic e
 
 ---
 
-## 📋 Development Timeline
+<!--## 📋 Development Timeline
 
 ### **Rigorous Testing Protocol**
 
@@ -255,7 +255,7 @@ Our intellectual property includes:
 - International patent cooperation treaty (PCT) filing
 - Regional patents in EU, US, and other major markets
 - Trade secret protection for specific formulation details
-
+-->
 ---
 
 ## 🌍 Addressing Antibiotic Resistance
@@ -282,51 +282,6 @@ One of PHLYXR's most important advantages is its **non-antibiotic mechanism of a
 
 ---
 
-## 📚 Scientific Publications
-
-### **Commitment to Transparency**
-
-We are committed to publishing all research findings in peer-reviewed journals:
-
-**Planned Publications (2026-2027):**
-
-- *"Biomaterial-Based Lubricants for STI Prevention: In Vitro Efficacy Studies"* - Journal of Sexual Medicine
-- *"Microbiome Impact of pH-Optimized Antimicrobial Lubricants"* - Microbiome Research
-- *"Safety and Tolerability of Novel STI-Preventing Lubricant: Phase 1 Clinical Trial"* - Sexual Health Journal
-- *"Non-Antibiotic Approaches to STI Prevention: A New Paradigm"* - The Lancet Infectious Diseases
-
-**Conference Presentations:**
-
-- British Association for Sexual Health and HIV (BASHH)
-- International Society for Sexually Transmitted Diseases Research (ISSTDR)
-- European Academy of Dermatology and Venereology (EADV)
-
----
-
-## 🔬 Collaborative Research
-
-### **Academic and Industry Partnerships**
-
-We collaborate with leading institutions:
-
-**Academic Partners:**
-
-- Imperial College London - STI Microbiota Group
-- University of Edinburgh - Biomedical Sciences
-- University of Leeds - Biomaterial Engineering
-- University of Manchester - Clinical Trials
-- University of Reading - Women's Health Research
-
-**Industry Partners:**
-
-- Contract Research Organizations (CROs) for clinical testing
-- Manufacturing partners for scale-up
-- Regulatory consultants for MHRA approval
-
-**Interested in collaborating?** [Contact us](mailto:research@phlyxr.com)
-
----
-
 ## ❓ Scientific FAQs
 
 ### **Common Questions from Researchers and Healthcare Providers**
@@ -337,15 +292,11 @@ A: Unlike N-9, which damages cell membranes indiscriminately (causing irritation
 
 **Q: Can pathogens develop resistance to PHLYXR?**
 
-A: The physical binding mechanism makes resistance development extremely unlikely. Unlike antibiotics that target specific metabolic pathways, PHLYXR physically coats pathogens, preventing attachment—a mechanism that cannot be easily circumvented through mutation.
+A: The physical binding mechanism makes resistance development extremely unlikely. Unlike antibiotics that target specific metabolic pathways, PHLYXR physically coats pathogens, preventing attachment - a mechanism that cannot be easily circumvented through mutation.
 
 **Q: What is the mechanism for viral STI prevention?**
 
 A: PHLYXR binds to viral envelope proteins (for enveloped viruses like HSV and HIV) or capsid proteins (for non-enveloped viruses like HPV), preventing viral attachment to host cells and disrupting viral integrity.
-
-**Q: How long does protection last after application?**
-
-A: Preclinical studies suggest protection remains effective for the typical duration of sexual activity (up to 2 hours). Clinical trials will validate real-world duration of efficacy.
 
 **Q: Is PHLYXR compatible with condoms?**
 

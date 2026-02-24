@@ -58,6 +58,11 @@ nav:
   - Our Team: team.md
   - Timeline: timeline.md
 
+draft_docs: |
+  drafts/
+  *_unpublished.md
+  *_draft.md
+
 plugins:
   - search
 

@@ -2,7 +2,7 @@
 
 ## 🌍 A Global Public Health Emergency
 
-Sexually transmitted infections are surging worldwide, and the consequences are devastating.
+Sexually transmitted infections (STIs) are surging worldwide, and the consequences are devastating.
 
 ---
 
@@ -21,7 +21,7 @@ Over 500% increase since 2010
 <div class="stat-card urgent" markdown="1">
 ### **+158.3%**
 #### Syphilis
-"Not quite historical" anymore
+Not quite historical anymore
 </div>
 
 <div class="stat-card urgent" markdown="1">
@@ -54,7 +54,7 @@ Still climbing steadily
 !!! danger "Antibiotic Resistance Crisis"
     The rise of antibiotic-resistant STIs (particularly gonorrhoea) threatens to make common infections **untreatable**. By 2050, antibiotic resistance could cost the NHS **£3 billion annually** - a **17x increase** from today.
     
-    **This isn't just a health crisis—it's an economic catastrophe in the making.**
+    **This isn't just a health crisis - it's an economic catastrophe in the making.**
 
 ---
 
@@ -147,7 +147,7 @@ Our data comes from peer-reviewed sources and official health organizations:
 
 <div style="text-align: center; margin: 4rem 0;">
 
-### The crisis is real. The solution is here.
+### The crisis is real. But the solution is here.
 
 [Learn About PHLYXR](our-solution.md){.cta-button }
 

@@ -13,7 +13,7 @@ Microbiome-friendly • STI Preventing • Contraceptive • Non-hormonal • Ve
 </div>
 
 <div class="fade-in">
-<a href="#waitlist" class="cta-button">Join the Waitlist</a>
+<a href="#waitlist" class="cta-button">Join the Mailing list</a>
 <a href="#learn-more" class="cta-button secondary">Learn More</a>
 </div>
 
@@ -141,7 +141,7 @@ We're currently in **preclinical in vitro testing** with formula refinement ongo
     - ✅ **Q2/Q3 2025** - Rheological testing & characterisation (Complete)
     - 🔄 **Q4 2025-Q1 2026** - Preclinical in vitro testing & formula refinement (In Progress)
     - 📅 **Q2 2026** - Patent filing & production scaling
-    - 📅 **Q3-Q4 2026** - Clinical trials at identified CRO & MHRA approval
+    - 📅 **Q3 2026-Q4 2027** - Clinical trials at identified CRO & MHRA approval
     - 🎯 **Q4 2027** - Product launch
 
 [View Full Timeline](timeline.md){.cta-button secondary }
@@ -152,15 +152,16 @@ We're currently in **preclinical in vitro testing** with formula refinement ongo
 
 <div class="target-audience" markdown="1">
 
-### **Primary Audience: Women Aged 15-40**
+### **Anyone who needs protection against STIs**
+We designed PHLYXR to be used by anyone needs on-demand STI prevention. If you want to enjoy life and live in the moment, then PHLYXR is for you
 
-Our research shows this demographic:
+<!--Our research shows this demographic:
 
 - 📊 Accounts for **>50%** of Chlamydia and Gonorrhoea cases (ages 15-24 in England, 2020)
 - 💧 Purchases **more lubricant than condoms** (peak usage ages 25-34)
 - 🌿 Seeks **non-hormonal, non-irritating** sexual health products
 - 🔬 Values **science-backed** solutions
-- 🏥 Most likely to attend sexual health services (ages 25-34)
+- 🏥 Most likely to attend sexual health services (ages 25-34) -->
 
 </div>
 
@@ -168,13 +169,13 @@ Our research shows this demographic:
 
 ## 🎓 World-Class Team
 
-PHLYXR is developed by experts from **Imperial College London, University of Edinburgh, University of Leeds, University of Manchester, and University of Reading**.
+PHLYXR is developed by experts from **Imperial College London and the University of Manchester**.
 
 <div class="team-preview" markdown="1">
 
 **Sophie Stephens, MSc, MIBMS** - Biomedical Scientist/PhD Student, Microbiology specialist in women's health
 
-**James Warren, PhD** - Biomaterial Engineering Scientist, Biofluid expert with previous patents
+**James Warren, PhD** - Biomaterial Engineering Scientist, Biofluids expert with previous patents
 
 **Rebekah Lloyd** - Women's Health Business Consultant (Rela)
 
@@ -182,17 +183,17 @@ PHLYXR is developed by experts from **Imperial College London, University of Edi
 
 </div>
 
-[Meet the Full Team](team.md){.cta-button }
+[Meet the Team](team.md){.cta-button }
 
 ---
 
-## 📬 Join the Movement {#waitlist}
+## 📬 Get updates on PHLYXR {#mailinglist}
 
-Be part of the sexual health revolution. PHLYXR is coming in **Q4 2027**.
+Be part of the sexual health revolution.
 
 <div class="waitlist-benefits" markdown="1">
 
-### **Why Join Our Waitlist?**
+### **Why Join Our Mailing list?**
 
 ✅ **Exclusive early access** to PHLYXR before public launch  
 ✅ **Special launch pricing** for early supporters  
@@ -203,7 +204,7 @@ Be part of the sexual health revolution. PHLYXR is coming in **Q4 2027**.
 </div>
 
 <div style="text-align: center; margin: 3rem 0;">
-<a href="https://forms.gle/your-waitlist-form" class="cta-button large" target="_blank">Join the Waitlist</a>
+<a href="https://forms.gle/3UL5G6cJibZKnsHC7" class="cta-button large" target="_blank">Join the Mailing list</a>
 </div>
 
 ---
@@ -223,7 +224,7 @@ Your feedback is invaluable. Take our 5-minute survey to help us understand:
 
 ---
 
-## 🤝 Strategic Partnerships
+<!--## 🤝 Strategic Partnerships
 
 We're building connections with leading organizations:
 
@@ -236,7 +237,7 @@ We're building connections with leading organizations:
 - **Reckitt** - Licensing opportunities
 
 </div>
-
+-->
 ---
 
 ## 💼 Investment Opportunity
@@ -264,7 +265,7 @@ Interested in investing? **[Contact us](mailto:invest@phlyxr.com)**
 
 <div style="text-align: center; margin: 2rem 0;">
 <a href="#waitlist" class="cta-button">Join the Waitlist</a>
-<a href="our-solution.md" class="cta-button secondary">Learn More</a>
+<a href="our-solution" class="cta-button secondary">Learn More</a>
 </div>
 
 </div>

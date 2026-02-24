@@ -2,7 +2,7 @@
 
 ## 👥 World-Class Expertise
 
-PHLYXR is developed by a multidisciplinary team of scientists, clinicians, and business experts from leading UK universities.
+PHLYXR is developed by scientists from leading UK universities who are experts in their fields.
 
 ---
 
@@ -20,7 +20,7 @@ PHLYXR is developed by a multidisciplinary team of scientists, clinicians, and b
 
 - Microbiology specialist in women's health
 - Vaginal microbiome research
-- STI pathogen characterization
+- STI pathogen characterisation
 - Clinical laboratory science
 
 **Education:**
@@ -31,7 +31,9 @@ PHLYXR is developed by a multidisciplinary team of scientists, clinicians, and b
 
 **Role at PHLYXR:**
 
-Sophie leads our microbiological research, ensuring PHLYXR's formulation is effective against STI pathogens while preserving the vaginal microbiome. Her expertise in lactobacillus species and vaginal health is fundamental to our pH-optimized approach.
+Sophie leads our microbiological research, ensuring PHLYXR's formulation is effective against STI pathogens while preserving the vaginal microbiome. Her expertise in lactobacillus species and vaginal health is fundamental to our pH-matched approach.
+
+[Techround interview](https://techround.co.uk/interviews/meet-sophie-stephens-founder-at-sexual-health-company-phlyxr/){.cta-button }
 
 </div>
 
@@ -47,28 +49,32 @@ Sophie leads our microbiological research, ensuring PHLYXR's formulation is effe
 - Biomaterial formulation
 - Patent development
 - Sustainable manufacturing
+- Previous patents in biomaterial applications
 
 **Education:**
 
 - PhD, University of Leeds
-- Previous patents in biomaterial applications
 
 **Role at PHLYXR:**
 
-James is the architect of our proprietary formulation technology. His expertise in biofluids and biomaterials enables the creation of a lubricant that maintains optimal texture and sensation while delivering active antimicrobial compounds. He leads our patent strategy and manufacturing scale-up.
+James is the architect of our proprietary formulation technology. His expertise in biofluids and biomaterials enables the creation of a lubricant that maintains optimal texture and sensation while delivering active antimicrobial compounds. He leads our formula development, patent strategy and manufacturing scale-up.
 
 </div>
+
+---
+
+## 🤝 Current Advisory Board
 
 <div class="team-card" markdown="1">
 
 ### **Rebekah Lloyd**
 
-<div class="role">Women's Health Business Consultant</div>
+<div class="role">Business Advisor</div>
 
 **Expertise:**
 
 - Women's health market strategy
-- Product commercialization
+- Product commercialisation
 - Partnership development
 - FemTech sector expertise
 
@@ -86,7 +92,7 @@ Rebekah brings critical business acumen and women's health market insights. She 
 
 ### **Dr. Charlotte-Eve Short, MRCP**
 
-<div class="role">Imperial STI Microbiota Group Leader</div>
+<div class="role">Clinical Advisor</div>
 
 **Expertise:**
 
@@ -97,12 +103,12 @@ Rebekah brings critical business acumen and women's health market insights. She 
 
 **Institution:**
 
-- Imperial College London
+- Imperial College London - Leader of the STI Microbiota Group
 - Member of the Royal College of Physicians (MRCP)
 
 **Role at PHLYXR:**
 
-Dr. Short provides clinical oversight and ensures our research meets the highest medical standards. As a leading expert in STI prevention and microbiome research, she guides our clinical trial design and regulatory strategy. Her clinical perspective ensures PHLYXR addresses real-world patient needs.
+Dr. Charlie provides clinical oversight and ensures our research meets the highest medical standards. As a leading expert in STI prevention and microbiome research, she guides our clinical trial design and regulatory strategy. Her clinical perspective ensures PHLYXR addresses real-world patient needs.
 
 </div>
 
@@ -110,7 +116,7 @@ Dr. Short provides clinical oversight and ensures our research meets the highest
 
 ---
 
-## 🏛️ Institutional Affiliations
+<!--## 🏛️ Institutional Affiliations
 
 PHLYXR benefits from partnerships with world-leading universities:
 
@@ -157,20 +163,17 @@ PHLYXR benefits from partnerships with world-leading universities:
 </div>
 
 </div>
-
+-->
 ---
 
 ## 🤝 Advisory Board
 
-We are building an advisory board of experts in:
+We are expanding our advisory board of experts:
 
-- **Sexual health medicine** - Clinical guidance and trial design
 - **Regulatory affairs** - MHRA approval pathway
-- **Manufacturing** - Scale-up and quality control
-- **Public health** - Population-level impact assessment
-- **Business development** - Commercialization strategy
+- **Business development** - Commercialisation strategy
 
-**Interested in joining our advisory board?** [Contact us](mailto:advisory@phlyxr.com)
+**Interested in joining our advisory board?** [Contact us](mailto:s.stephens23@imperial.ac.uk)
 
 ---
 
@@ -206,7 +209,7 @@ We are building an advisory board of experts in:
 
 **🔬 Scientific Rigor**
 
-Every claim is backed by research. We commit to transparency and peer-reviewed publication of all findings.
+Every claim is backed by research. We want to create a product that you can trust fully.
 
 **🌍 Accessibility**
 
@@ -220,13 +223,9 @@ We design for diverse bodies, identities, and practices. PHLYXR is for everyone 
 
 Environmentally responsible manufacturing and packaging are non-negotiable.
 
-**🤝 Collaboration**
-
-We partner with leading organizations, researchers, and communities to maximize impact.
-
 ---
 
-## 📬 Join Our Team
+<!--## 📬 Join Our Team
 
 ### **Current Opportunities**
 
@@ -256,17 +255,17 @@ We actively seek collaborations with:
 - **Healthcare providers** - Real-world implementation feedback
 
 **Want to collaborate?** [Contact us](mailto:research@phlyxr.com)
-
+-->
 ---
 
 <div class="footer-cta" markdown="1">
 
 ## Ready to Support Our Mission?
 
-Join our waitlist or explore investment opportunities.
+Join our Mailing list or explore investment opportunities.
 
 <div style="text-align: center; margin: 2rem 0;">
-<a href="../index.md#waitlist" class="cta-button">Join the Waitlist</a>
+<a href="../index.md#waitlist" class="cta-button">Join the Mailing list</a>
 <a href="timeline.md" class="cta-button secondary">View Our Timeline</a>
 </div>
 

@@ -79,7 +79,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 **Status: Planned**
 
 - 📋 Patent filing (UK and PCT)
-- 📋 Production scaling and manufacturing setup
+- 📋 Production and manufacturing setup
 - 📋 Supplier agreements
 - 📋 Quality control protocols
 
@@ -91,7 +91,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 
 <div class="timeline-item" markdown="1">
 <div class="timeline-content" markdown="1">
-### **Q3-Q4 2026: Clinical Trials** 📅
+### **Q3 2026-Q3 2027: Clinical Trials** 📅
 
 **Status: Planned**
 
@@ -105,6 +105,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 - £65k for CRO safety data
 - £1.18M for early feasibility clinical trial
 - £480k for MHRA approval
+- Additional funds required for pivotal clinical trials
 
 **Expected Outcome:** Clinical validation of safety and efficacy, regulatory approval secured.
 
@@ -144,9 +145,9 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 |--------------|---------------|-------------|--------------|
 | **In vitro efficacy testing** | £8k | Laboratory pathogen testing | Q4 2025 - Q1 2026 |
 | **CRO safety data** | £65k | Contract research organization safety studies | Q3 2026 |
-| **Clinical trial** | £1.18M | Early feasibility trial with human participants | Q3-Q4 2026 |
-| **MHRA approval** | £480k | Regulatory submission and approval process | Q4 2026 |
-| **Operational costs** | £67k | Salaries, patent maintenance, overhead | Ongoing |
+| **Clinical trial 1** | £1.18M | Early feasibility trial with human participants | Q3 2026-Q3 2027 |
+| **MHRA approval** | £480k | Regulatory submission and approval process | Q3 2027 |
+| **Operational costs** | £67k | Marketing, patent maintenance, overhead | Ongoing |
 
 **Total: £1.8M**
 
@@ -155,7 +156,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 **Series A (2027): Estimated £5-10M**
 
 - Scale-up of manufacturing
-- Pivotal clinical investigations
+- Pivotal clinical trial
 - International expansion preparation
 - Marketing and distribution
 - Team expansion
@@ -177,14 +178,13 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 - 🔄 Preclinical efficacy validated (Q1)
 - 📅 Patent filed (Q2)
 - 📅 Manufacturing scaled (Q2)
-- 📅 Clinical trial completed (Q4)
-- 📅 MHRA approval secured (Q4)
+- 📅 Funding secured (Q2)
 
 ### **2027 Milestones** 🎯
 
 - 🎯 Commercial production begins (Q1)
-- 🎯 Distribution partnerships finalized (Q2)
-- 🎯 Marketing campaign launches (Q3)
+- 🎯 Clinical trial 1 completed (Q4)
+- 🎯 MHRA approval secured (Q4)
 - 🎯 Product available in pharmacies (Q4)
 - 🎯 £1M revenue target achieved (Year 1)
 
@@ -214,7 +214,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 
 ### **Phase 2: Preclinical Validation** 🔄 In Progress
 
-**Duration:** 6 months (Q4 2025 - Q1 2026)
+**Duration:** 6 months (Q4 2025 - Q2 2026)
 
 **Activities:**
 
@@ -233,11 +233,11 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 
 ---
 
-### **Phase 3: Clinical Trials** 📅 Planned Q3-Q4 2026
+### **Phase 3: Clinical Trials** 📅 Planned Q3 2026-Q3 2027
 
 **Duration:** 6-9 months
 
-**Study Design:**
+<!--**Study Design:**
 
 - **Phase 1a: Safety & Tolerability** (n=50)
   - Single and repeated dose safety
@@ -260,7 +260,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 - STI incidence in users vs. controls
 - Contraceptive efficacy
 - Product preference vs. standard lubricants
-
+-->
 ---
 
 ### **Phase 4: Regulatory Approval** 📅 Planned Q4 2026
@@ -276,7 +276,7 @@ PHLYXR is on track for launch in **Q4 2027**. Here's our detailed development ro
 
 **Regulatory Pathway:**
 
-PHLYXR will be submitted as a **medical device with drug-like claims** under UK regulations.
+PHLYXR will be submitted as a **medical device** under UK regulations.
 
 ---
 
@@ -284,7 +284,7 @@ PHLYXR will be submitted as a **medical device with drug-like claims** under UK 
 
 **Duration:** Ongoing
 
-**Launch Activities:**
+<!--**Launch Activities:**
 
 - Commercial manufacturing ramp-up
 - Distribution to pharmacies and retailers
@@ -292,10 +292,10 @@ PHLYXR will be submitted as a **medical device with drug-like claims** under UK 
 - Marketing campaign (digital, social, PR)
 - Healthcare provider education
 - Post-market surveillance
-
+-->
 ---
 
-## 📊 Risk Mitigation
+<!--## 📊 Risk Mitigation
 
 ### **Potential Challenges & Our Solutions**
 
@@ -371,7 +371,7 @@ PHLYXR will be submitted as a **medical device with drug-like claims** under UK 
 - ✅ NHS cost savings realized
 - ✅ Market share captured
 - ✅ Public health impact demonstrated
-
+-->
 ---
 
 <div class="footer-cta" markdown="1">
