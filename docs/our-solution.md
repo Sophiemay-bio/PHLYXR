@@ -5,7 +5,7 @@
 <div class="product-showcase" markdown="1">
 
 <div class="product-image">
-<img src="docs/assets/mockup-1.png" alt="PHLYXR Lubricant" class="mockup-image">
+<img src="assets/mockup-1.png" alt="PHLYXR Product" class="mockup-image">
 </div>
 
 <div class="product-features" markdown="1">
