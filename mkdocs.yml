@@ -1,6 +1,85 @@
 site_name: PHLYXR
-theme: 
-  name: material
-  palette:
-    primary: red
+site_description: A sexual lubricant that prevents STI transmission. Redefining protection so you can live in the moment.
+site_author: PHLYXR Team
+site_url: https://phlyxr.com
 
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Montserrat
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - announce.dismiss
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/phlyxr/
+      name: PHLYXR on Instagram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/phlyxr/
+      name: PHLYXR on LinkedIn
+  
+  generator: false
+
+nav:
+  - Home: index.md
+  - The Problem: the-problem.md
+  - Our Solution: our-solution.md
+  - The Science: science.md
+  - Our Team: team.md
+  - Timeline: timeline.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - footnotes
+  - pymdownx.mark
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+#copyright: Copyright &copy; 2026 PHLYXR. All rights reserved.
