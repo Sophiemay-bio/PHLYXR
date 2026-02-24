@@ -18,10 +18,8 @@ Microbiome-friendly • STI Preventing • Contraceptive • Non-hormonal • Ve
 </div>
 
 <div class="social-links fade-in">
-<a href="https://www.instagram.com/phlyxr/" target="_blank" aria-label="Instagram">:fontawesome-brands-instagram:</a>
-<a href="https://www.linkedin.com/company/phlyxr/" target="_blank" aria-label="LinkedIn">:fontawesome-brands-linkedin:</a>
-</div>
-
+<a href="https://www.instagram.com/phlyxr/" target="_blank" aria-label="Instagram"></a>
+<a href="https://www.linkedin.com/company/phlyxr/" target="_blank" aria-label="LinkedIn"></a>
 </div>
 
 ---
